@@ -10,6 +10,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -39,9 +40,11 @@ Collection of LeetCode Problems and their Solutions.
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
