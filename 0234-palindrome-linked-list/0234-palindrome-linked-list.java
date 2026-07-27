@@ -42,7 +42,6 @@ class Solution {
             curr = next;
         }
 
-        // head.next = null;
         return prev;
     }
 }
