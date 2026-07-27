@@ -6,6 +6,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -47,4 +48,8 @@ Collection of LeetCode Problems and their Solutions.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
