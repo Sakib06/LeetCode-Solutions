@@ -52,4 +52,20 @@ Collection of LeetCode Problems and their Solutions.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
