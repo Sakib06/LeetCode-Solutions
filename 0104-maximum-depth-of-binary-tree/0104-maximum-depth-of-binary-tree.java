@@ -17,24 +17,11 @@ class Solution {
     public int maxDepth(TreeNode root) {
         if(root == null) return 0;
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        // Recursively calculate the depth of left and right subtrees
+        int leftDepth = maxDepth(root.left);
+        int rightDepth = maxDepth(root.right);
 
-        int nodeCount = 0, levelCount = 0;
-
-        while(!queue.isEmpty()) {
-            nodeCount = queue.size();
-
-            for(int i=0; i<nodeCount; i++) {
-                TreeNode current = queue.poll();
-
-                if(current.left != null) queue.add(current.left);
-                if(current.right != null) queue.add(current.right);
-            }
-
-            levelCount++;
-        }
-
-        return levelCount;
+        // The maximum depth at current node is 1 + maximum of subtrees
+        return 1 + Math.max(leftDepth, rightDepth);
     }
 }
