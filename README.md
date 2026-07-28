@@ -81,6 +81,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0100-same-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -103,6 +105,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -112,4 +115,8 @@ Collection of LeetCode Problems and their Solutions.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
