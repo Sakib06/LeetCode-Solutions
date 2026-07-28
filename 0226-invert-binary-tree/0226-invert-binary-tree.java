@@ -21,17 +21,14 @@ class Solution {
         queue.add(root);
 
         while(!queue.isEmpty()) {
-            int nodeCount = queue.size();
-            
-            for(int i=0; i<nodeCount; i++) {
-                TreeNode current = queue.poll();
-                TreeNode temp = current.left;
-                current.left = current.right;
-                current.right = temp;
+            TreeNode current = queue.poll();
 
-                if(current.left != null) queue.add(current.left);
-                if(current.right != null) queue.add(current.right);
-            }
+            TreeNode temp = current.left;
+            current.left = current.right;
+            current.right = temp;
+
+            if(current.left != null) queue.add(current.left);
+            if(current.right != null) queue.add(current.right);
         }
 
         return root;
