@@ -6,6 +6,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -129,6 +130,7 @@ Collection of LeetCode Problems and their Solutions.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
