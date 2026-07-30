@@ -10,6 +10,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode Problems and their Solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0905-sort-array-by-parity](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0143-reorder-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
