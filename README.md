@@ -58,6 +58,7 @@ Collection of LeetCode Problems and their Solutions.
 | [0049-group-anagrams](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -144,6 +145,7 @@ Collection of LeetCode Problems and their Solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +159,5 @@ Collection of LeetCode Problems and their Solutions.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
