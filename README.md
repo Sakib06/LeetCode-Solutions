@@ -6,6 +6,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -15,6 +16,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -25,6 +27,7 @@ Collection of LeetCode Problems and their Solutions.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -47,6 +50,7 @@ Collection of LeetCode Problems and their Solutions.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakib06/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
